@@ -1,0 +1,2 @@
+model_checkpoint_path: "CAE-fs1-fn30-es15decay_weight_75"
+all_model_checkpoint_paths: "CAE-fs1-fn30-es15decay_weight_75"
